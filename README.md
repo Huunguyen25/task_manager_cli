@@ -20,10 +20,12 @@ This Python script provides a command-line interface (CLI) for managing tasks st
    Other
    source env/bin/activate
    ```
+   #### Example of usage: [Usage section](#usage)
+   or get help 
    ```bash
    python main.py -h
    ```
-   #### Example of usage: [Usage section](#usage)
+   
 ---
 
 
