@@ -10,7 +10,7 @@ This Python script provides a command-line interface (CLI) for managing tasks st
 ## How to run the program
 
 ```bash
-cd tasktracker_cli/
+cd task_manager_cli/
 ```
 ### then create a virtual environment 
 ```bash
