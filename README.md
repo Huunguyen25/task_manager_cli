@@ -6,22 +6,24 @@ This Python script provides a command-line interface (CLI) for managing tasks st
 ## File Structure
 - **`task.json`**: Stores task data in JSON format.
 
+## How to use the program
+*
+   ```bash
+   cd task_manager_cli/
+   ```
+   ### create a virtual environment 
+   ```bash
+   python -m venv env
+   Windows
+   source env/Scripts/activate.bat
 
-## How to run the program
-
-```bash
-cd task_manager_cli/
-```
-### then create a virtual environment 
-```bash
-python -m venv env
-Windows
-source env/Scripts/activate.bat
-
-Other
-source env/bin/activate
-```
-#### Example of usage: [Usage section](#usage)
+   Other
+   source env/bin/activate
+   ```
+   ```bash
+   python main.py -h
+   ```
+   #### Example of usage: [Usage section](#usage)
 ---
 
 
