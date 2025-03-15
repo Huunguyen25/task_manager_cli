@@ -136,10 +136,6 @@ def list_tasks(id):
             Created on:  {task['created on']}
             Updated on:  {task['updated on']}
             """)
-            
-def test():
-    curr_task_list = read_json()
-    print(curr_task_list["1"])
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--create", nargs="+", 

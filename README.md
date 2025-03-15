@@ -171,9 +171,6 @@ python -m venv env
   - Lists all tasks if `id = -1`.
   - Lists tasks filtered by a specific progress type if `id` matches a progress state.
 
-- **`test()`**  
-  - Prints task data for testing purposes.
-
 - **`main()`**  
   - Parses CLI arguments and calls appropriate functions.
 
