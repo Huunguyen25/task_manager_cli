@@ -16,6 +16,7 @@ cd tasktracker_cli/
 ```bash
 python -m venv env
 ```
+"How to run the program": [Usage section](#usage)
 ---
 
 
