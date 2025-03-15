@@ -15,6 +15,11 @@ cd task_manager_cli/
 ### then create a virtual environment 
 ```bash
 python -m venv env
+Windows
+source env/Scripts/activate.bat
+
+Other
+source env/bin/activate
 ```
 #### Example of usage: [Usage section](#usage)
 ---
